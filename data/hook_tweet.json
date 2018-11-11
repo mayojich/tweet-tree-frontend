@@ -1,0 +1,228 @@
+{
+  "text": "Made a new hook today, useGesture. Pretty useful for any type of low-level gesture access, tracks mouse/touch and d… https://t.co/M9c12BADMm",
+  "url": "https://twitter.com/anyuser/status/1059173041945698305",
+  "images": [
+    "https://pbs.twimg.com/profile_images/1051050638195482624/Q3dOn3o9_normal.jpg"
+  ],
+  "retweets": 108,
+  "favourites": 639,
+  "sentiment": {
+    "magnitude": 1.2000000476837158,
+    "score": 0.6000000238418579
+  },
+  "entities": [
+    {
+      "label": "hook",
+      "salience": 0.5811940431594849,
+      "type": "OTHER"
+    },
+    {
+      "label": "useGesture",
+      "salience": 0.15207168459892273,
+      "type": "OTHER"
+    },
+    {
+      "label": "type",
+      "salience": 0.08613672107458115,
+      "type": "OTHER"
+    },
+    {
+      "label": "touch",
+      "salience": 0.060044609010219574,
+      "type": "OTHER"
+    },
+    {
+      "label": "d",
+      "salience": 0.04225606098771095,
+      "type": "OTHER"
+    },
+    {
+      "label": "gesture access",
+      "salience": 0.026597360149025917,
+      "type": "OTHER"
+    },
+    {
+      "label": "mouse",
+      "salience": 0.026597360149025917,
+      "type": "OTHER"
+    },
+    {
+      "label": "https://t.co/M9c12BADMm",
+      "salience": 0.025102166458964348,
+      "type": "OTHER"
+    }
+  ],
+  "children": [
+    {
+      "text": "@0xca0a Nice – the API is really great! I'm wondering though if there is a way to interpolate the values directly i… https://t.co/i3FVZrpeMm",
+      "url": "https://twitter.com/anyuser/status/1059361986847358977",
+      "images": [
+        "https://pbs.twimg.com/profile_images/729383491578826752/D9Du34ZU_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 2,
+      "sentiment": {
+        "magnitude": 1.2000000476837158,
+        "score": 0.6000000238418579
+      },
+      "entities": [
+        {
+          "label": "Nice",
+          "salience": 0.3219868838787079,
+          "type": "ORGANIZATION"
+        },
+        {
+          "label": "@0xca0a",
+          "salience": 0.3219868838787079,
+          "type": "PERSON"
+        },
+        {
+          "label": "API",
+          "salience": 0.2541855275630951,
+          "type": "OTHER"
+        },
+        {
+          "label": "values",
+          "salience": 0.05137387290596962,
+          "type": "OTHER"
+        },
+        {
+          "label": "way",
+          "salience": 0.02901647984981537,
+          "type": "OTHER"
+        },
+        {
+          "label": "https://t.co/i3FVZrpeMm",
+          "salience": 0.021450351923704147,
+          "type": "OTHER"
+        }
+      ],
+      "children": [
+        {
+          "text": "@jamannnnnn https://t.co/Myg2SqP3bL 🙂",
+          "url": "https://twitter.com/anyuser/status/1059470595778322432",
+          "images": [
+            "https://pbs.twimg.com/profile_images/1051050638195482624/Q3dOn3o9_normal.jpg"
+          ],
+          "retweets": 0,
+          "favourites": 0,
+          "sentiment": {
+            "magnitude": 0.10000000149011612,
+            "score": 0.10000000149011612
+          },
+          "entities": [
+            {
+              "label": "@jamannnnnn",
+              "salience": 1,
+              "type": "OTHER"
+            }
+          ],
+          "children": []
+        },
+        {
+          "text": "@jamannnnnn Yes, it would be possible, @dot_louis made a version that uses events, this would allow you to use useS… https://t.co/UaxzM1R42s",
+          "url": "https://twitter.com/anyuser/status/1059363073998442496",
+          "images": [
+            "https://pbs.twimg.com/profile_images/1051050638195482624/Q3dOn3o9_normal.jpg"
+          ],
+          "retweets": 0,
+          "favourites": 3,
+          "sentiment": {
+            "magnitude": 0.30000001192092896,
+            "score": 0.30000001192092896
+          },
+          "entities": [
+            {
+              "label": "@jamannnnnn",
+              "salience": 0.34689557552337646,
+              "type": "PERSON"
+            },
+            {
+              "label": "version",
+              "salience": 0.3280560374259949,
+              "type": "OTHER"
+            },
+            {
+              "label": "events",
+              "salience": 0.14869727194309235,
+              "type": "EVENT"
+            },
+            {
+              "label": "@dot_louis",
+              "salience": 0.09621290117502213,
+              "type": "OTHER"
+            },
+            {
+              "label": "useS",
+              "salience": 0.0801382064819336,
+              "type": "OTHER"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "@jamannnnnn https://t.co/Myg2SqP3bL 🙂",
+      "url": "https://twitter.com/anyuser/status/1059470595778322432",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1051050638195482624/Q3dOn3o9_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 0,
+      "sentiment": {
+        "magnitude": 0.10000000149011612,
+        "score": 0.10000000149011612
+      },
+      "entities": [
+        {
+          "label": "@jamannnnnn",
+          "salience": 1,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@jamannnnnn Yes, it would be possible, @dot_louis made a version that uses events, this would allow you to use useS… https://t.co/UaxzM1R42s",
+      "url": "https://twitter.com/anyuser/status/1059363073998442496",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1051050638195482624/Q3dOn3o9_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 3,
+      "sentiment": {
+        "magnitude": 0.30000001192092896,
+        "score": 0.30000001192092896
+      },
+      "entities": [
+        {
+          "label": "@jamannnnnn",
+          "salience": 0.34689557552337646,
+          "type": "PERSON"
+        },
+        {
+          "label": "version",
+          "salience": 0.3280560374259949,
+          "type": "OTHER"
+        },
+        {
+          "label": "events",
+          "salience": 0.14869727194309235,
+          "type": "EVENT"
+        },
+        {
+          "label": "@dot_louis",
+          "salience": 0.09621290117502213,
+          "type": "OTHER"
+        },
+        {
+          "label": "useS",
+          "salience": 0.0801382064819336,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    }
+  ]
+}

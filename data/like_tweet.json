@@ -1,0 +1,354 @@
+{
+  "text": "Yay I made an over-the-top \"Like\" button with React hooks! 🎣\n\n⇢ Tracks your cursor, when it's nearby\n⇢ Gets all hap… https://t.co/DXQbq28vFX",
+  "url": "https://twitter.com/anyuser/status/1059441393498836992",
+  "images": [
+    "https://pbs.twimg.com/profile_images/461190672117035010/0kJ4pynr_normal.jpeg"
+  ],
+  "retweets": 143,
+  "favourites": 967,
+  "sentiment": {
+    "magnitude": 1.899999976158142,
+    "score": 0.4000000059604645
+  },
+  "entities": [
+    {
+      "label": "over-the-top",
+      "salience": 0.29079458117485046,
+      "type": "OTHER"
+    },
+    {
+      "label": "React hooks",
+      "salience": 0.20235960185527802,
+      "type": "OTHER"
+    },
+    {
+      "label": "Like'' button",
+      "salience": 0.19998475909233093,
+      "type": "OTHER"
+    },
+    {
+      "label": "cursor",
+      "salience": 0.09068205952644348,
+      "type": "OTHER"
+    },
+    {
+      "label": "⇢",
+      "salience": 0.0779896229505539,
+      "type": "PERSON"
+    },
+    {
+      "label": "⇢",
+      "salience": 0.06137153506278992,
+      "type": "ORGANIZATION"
+    },
+    {
+      "label": "hap",
+      "salience": 0.04821820184588432,
+      "type": "OTHER"
+    },
+    {
+      "label": "https://t.co/DXQbq28vFX",
+      "salience": 0.02859964221715927,
+      "type": "OTHER"
+    }
+  ],
+  "children": [
+    {
+      "text": "@JoshWComeau That's so fun",
+      "url": "https://twitter.com/anyuser/status/1059605982312103936",
+      "images": [
+        "https://pbs.twimg.com/profile_images/954751441071230977/MdR3R8hI_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 0,
+      "sentiment": {
+        "magnitude": 0.800000011920929,
+        "score": 0.800000011920929
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau",
+          "salience": 1,
+          "type": "PERSON"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau That's so cool!",
+      "url": "https://twitter.com/anyuser/status/1059540455120089088",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1017013284715630592/LOCkh4VE_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 0.8999999761581421,
+        "score": 0.8999999761581421
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau",
+          "salience": 1,
+          "type": "PERSON"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau @dan_abramov I love this!",
+      "url": "https://twitter.com/anyuser/status/1059528852937076738",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1046067906772111360/3-FOJo2w_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 0.8999999761581421,
+        "score": 0.8999999761581421
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau @dan_abramov",
+          "salience": 1,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau Pretty awesome stuff!",
+      "url": "https://twitter.com/anyuser/status/1059524475484561410",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1000474063582703616/gc1up1yu_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 0,
+      "sentiment": {
+        "magnitude": 0.8999999761581421,
+        "score": 0.8999999761581421
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau",
+          "salience": 0.7207030653953552,
+          "type": "PERSON"
+        },
+        {
+          "label": "stuff",
+          "salience": 0.2792969346046448,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau @javascript_go Beautiful stuff",
+      "url": "https://twitter.com/anyuser/status/1059510894546350080",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1023295683368038401/8XTeSI8f_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 0.8999999761581421,
+        "score": 0.8999999761581421
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau",
+          "salience": 0.7014173269271851,
+          "type": "PERSON"
+        },
+        {
+          "label": "stuff",
+          "salience": 0.23365624248981476,
+          "type": "OTHER"
+        },
+        {
+          "label": "@javascript_go Beautiful",
+          "salience": 0.0649264007806778,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau This is really great!",
+      "url": "https://twitter.com/anyuser/status/1059500013687111682",
+      "images": [
+        "https://pbs.twimg.com/profile_images/816052963588251648/12KssvbO_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 0.8999999761581421,
+        "score": 0.8999999761581421
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau This",
+          "salience": 1,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau It's pretty robust. I've been testing it for a while now, making him talk and stuff https://t.co/GDyVWGnIKl",
+      "url": "https://twitter.com/anyuser/status/1059496694260346880",
+      "images": [
+        "https://pbs.twimg.com/ext_tw_video_thumb/1059496676489080833/pu/img/wkh2-VL-3RAVQGFV.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 8,
+      "sentiment": {
+        "magnitude": 1.100000023841858,
+        "score": 0.5
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau",
+          "salience": 0.797318696975708,
+          "type": "PERSON"
+        },
+        {
+          "label": "https://t.co/GDyVWGnIKl",
+          "salience": 0.20268131792545319,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau This is outrageous. I love it.",
+      "url": "https://twitter.com/anyuser/status/1059489235802210305",
+      "images": [
+        "https://pbs.twimg.com/profile_images/967988126810497024/FfWSKiD__normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 1.2000000476837158,
+        "score": 0.20000000298023224
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau This",
+          "salience": 1,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau @Vjeux You would have to be some kind of monster not to click like on everything",
+      "url": "https://twitter.com/anyuser/status/1059487579807121409",
+      "images": [
+        "https://pbs.twimg.com/profile_images/3731196850/39fc9827054f8558fc07e9c24ecb4718_normal.jpeg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau @Vjeux",
+          "salience": 0.5405746698379517,
+          "type": "PERSON"
+        },
+        {
+          "label": "kind",
+          "salience": 0.26398029923439026,
+          "type": "OTHER"
+        },
+        {
+          "label": "everything",
+          "salience": 0.11942347884178162,
+          "type": "OTHER"
+        },
+        {
+          "label": "monster",
+          "salience": 0.07602155208587646,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau WOW! 😍 I clicked it more than 100 times and can't stop myself from clicking it again and again and again.",
+      "url": "https://twitter.com/anyuser/status/1059486387236417536",
+      "images": [
+        "https://pbs.twimg.com/profile_images/884440462295224320/Or3usM_P_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 0.699999988079071,
+        "score": 0.30000001192092896
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau",
+          "salience": 0.807533323764801,
+          "type": "OTHER"
+        },
+        {
+          "label": "times",
+          "salience": 0.19246666133403778,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau It's so damn cute 😍 https://t.co/3GqTqGDq1R",
+      "url": "https://twitter.com/anyuser/status/1059485783013367808",
+      "images": [
+        "https://pbs.twimg.com/tweet_video_thumb/DrQMUmvVAAAJ4Gg.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 2,
+      "sentiment": {
+        "magnitude": 0.800000011920929,
+        "score": 0.800000011920929
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau",
+          "salience": 0.8619540333747864,
+          "type": "PERSON"
+        },
+        {
+          "label": "https://t.co/3GqTqGDq1R",
+          "salience": 0.13804595172405243,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    },
+    {
+      "text": "@JoshWComeau Beautiful 👏",
+      "url": "https://twitter.com/anyuser/status/1059467935654195200",
+      "images": [
+        "https://pbs.twimg.com/profile_images/877353034795196417/9w4yFWJb_normal.jpg"
+      ],
+      "retweets": 0,
+      "favourites": 1,
+      "sentiment": {
+        "magnitude": 0.800000011920929,
+        "score": 0.800000011920929
+      },
+      "entities": [
+        {
+          "label": "@JoshWComeau Beautiful",
+          "salience": 1,
+          "type": "OTHER"
+        }
+      ],
+      "children": []
+    }
+  ]
+}
