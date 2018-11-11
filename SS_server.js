@@ -10,16 +10,6 @@ app
   .then(() => {
     const server = express();
 
-    server.get("/p/:url", (req, res) => {
-      const actualPage = "/";
-      const queryParams = {
-        url: req.params.url
-      };
-      console.log("received!");
-      console.log(queryParams.url);
-      app.render(req, res, actualPage, queryParams);
-    });
-
     server.get("*", (req, res) => {
       return handle(req, res);
     });
